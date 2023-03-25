@@ -1,0 +1,11 @@
+.scene {
+  -fx-background-color: #dcdcdc;
+  -fx-padding: 20;
+}
+
+.title {
+  -fx-font-weight: bold;
+  -fx-font-size: 30;
+  -fx-padding: 10 20 10 20;
+}
+
